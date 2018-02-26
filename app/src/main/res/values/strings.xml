@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Greeting Friend</string>
+    <string name="edit_text">Input Your Name Please</string>
+    <string name="clickbtn">Click Here</string>
+    <string name="result">See The Changes</string>
+
+
+
+</resources>
